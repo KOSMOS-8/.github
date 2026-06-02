@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](https://github.com/VC-Match/.github/blob/main/profile/README.md) · **简体中文**
+[English](https://github.com/KOSMOS8/.github/blob/main/profile/README.md) · **简体中文**
 
 # VC‑Match
 
